@@ -1,0 +1,14 @@
+package com.masai;
+
+public class ShapeMain {
+	
+	
+	public static void main(String[] args) {
+		Shapes s1 = new Shapes();
+		s1.areaCircle(10);
+		
+		s1.areaReatangle(10,6);
+		
+		s1.areaSquare(5);
+	}
+}
