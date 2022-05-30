@@ -11,7 +11,7 @@ public class ShapeMain {
 		
 		s1.area(5);
 		
-		// the meaning of static polymorphism is same methods name but the parameters will be different.
-		//it means method wll be called , deceide at compile time only.
+		// the meaning of static polyMorphism is same methods name but the parameters will be different.
+		//it means method will be called , decide at compile time only.
 	}
 }
