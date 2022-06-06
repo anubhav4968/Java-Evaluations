@@ -37,4 +37,9 @@ public abstract class Employee {
 		this.salary = salary;
 	}
 	
+	public void diplay()
+	{
+		System.out.println("employeeId"+employeeId);
+		System.out.println("employeeName"+employeeName);
+	}
 }

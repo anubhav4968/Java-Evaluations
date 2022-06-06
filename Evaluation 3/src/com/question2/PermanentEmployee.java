@@ -11,6 +11,10 @@ public class PermanentEmployee extends Employee {
 	 setSalary(salary);
 	}
 
+	public PermanentEmployee()
+	{
+		
+	}
 	
 	public PermanentEmployee( int employeeId, String employeeName,double basicPay) {
 		this.basicPay = basicPay;
@@ -18,6 +22,7 @@ public class PermanentEmployee extends Employee {
 		setEmployeeId(employeeId);
 	}
 
+	
 	
 	
 	
