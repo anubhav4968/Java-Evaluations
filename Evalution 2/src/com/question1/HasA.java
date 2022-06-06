@@ -6,9 +6,9 @@ public class HasA {
 	//creating instances which have refrence to other object
 	
 }
-class Name{
+class Names{
 	NickName t = new NickName();
 }
-class NickName{
+class NickName extends Names{
 	
 }
